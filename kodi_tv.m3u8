@@ -1,40 +1,40 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV1HD_7000&/PLTV/hls.smil.m3u8
+http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV-2 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV2HD_7000&/PLTV/hls.smil.m3u8
+http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV-3 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV3HD_7000&/PLTV/hls.smil.m3u8
+http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"  group-title="央视频道",CCTV-4 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV-4HD_7500&/PLTV/hls.smil.m3u8
+http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV-5 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV5HD_7000&/PLTV/hls.smil.m3u8
+http://117.148.179.142/PLTV/88888888/224/3221232440/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV-5+ HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV5plusHD_7000&/PLTV/hls.smil.m3u8
+http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV-6 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV6HD_7000&/PLTV/hls.smil.m3u8
+http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV-7 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV7HD_7000&/PLTV/hls.smil.m3u8
+http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV-8 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV8HD_7000&/PLTV/hls.smil.m3u8
+http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV-9 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV9HD_7000&/PLTV/hls.smil.m3u8
+http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV-10 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV10HD_7000&/PLTV/hls.smil.m3u8
+http://117.148.179.164/PLTV/88888888/224/3221232492/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV-11 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV-11HD_7500&/PLTV/hls.smil.m3u8
+http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV-12 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV12HD_7000&/PLTV/hls.smil.m3u8
+http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV-13 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=yueyuHD_7000&/PLTV/hls.smil.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV-14 HD
 http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV14HD_7000&/PLTV/hls.smil.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV-15 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV-15HD_7500&/PLTV/hls.smil.m3u8
+http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV奥林匹克4K HDR
-http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive 
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17 HD
-http://wtv2.hodtv.tv:80/gudou9.php?id=CCTV-17HD_7500&/PLTV/hls.smil.m3u8
+http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png" group-title="央视频道",CCTV4K
 http://wtv2.hodtv.tv:80/gudou9.php?id=CCTVHHD4K_38000
 #EXTINF:-1 tvg-id="20" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="央视频道",CHC高清电影
